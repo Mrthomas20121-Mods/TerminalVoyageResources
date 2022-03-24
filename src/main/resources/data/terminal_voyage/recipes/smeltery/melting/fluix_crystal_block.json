@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "appliedenergistics2:fluix_block"
+  },
+  "result": {
+    "fluid": "terminal_voyage:fluix",
+    "amount": 576
+  },
+  "temperature": 1400,
+  "time": 69
+}

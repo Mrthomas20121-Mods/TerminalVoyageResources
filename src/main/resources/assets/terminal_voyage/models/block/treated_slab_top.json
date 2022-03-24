@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "terminal_voyage:block/treated_planks",
+    "top": "terminal_voyage:block/treated_planks",
+    "side": "terminal_voyage:block/treated_planks"
+  }
+}

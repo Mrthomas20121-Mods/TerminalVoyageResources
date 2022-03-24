@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "appliedenergistics2:printed_silicon",
+	"appliedenergistics2:printed_logic_processor",
+	"appliedenergistics2:printed_engineering_processor",
+	"appliedenergistics2:printed_calculation_processor"
+  ]
+}

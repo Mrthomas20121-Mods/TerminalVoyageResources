@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:silicon"
+  },
+  "result": {
+    "fluid": "terminal_voyage:silicon",
+    "amount": 144
+  },
+  "temperature": 2000,
+  "time": 54
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/printed"
+  },
+  "fluid": {
+    "tag": "forge:molten_diamond",
+    "amount": 144
+  },
+  "result": {
+    "item": "appliedenergistics2:printed_engineering_processor"
+  },
+  "cooling_time": 47
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "appliedenergistics2:printed_silicon"
+  },
+  "result": {
+    "fluid": "terminal_voyage:silicon",
+    "amount": 144
+  },
+  "temperature": 2000,
+  "time": 54
+}

@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "MIT License"
+issueTrackerURL = "https://github.com/Mrthomas20121-Mods/TerminalVoyageResources/issues"
+
+[[mods]]
+modId = "terminal_voyage"
+version = "0.0.1"
+displayName = "Terminal Voyage: Resources"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/terminal_voyage_resources"
+#logoFile="terminal_voyage_logo.png"
+authors = "Mrthomas20121"
+description = '''
+Add items, blocks and other stuff used in the Terminal Voyage Modpack.
+'''
+
+[[dependencies.terminal_voyage]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.3.1.316,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.terminal_voyage]]
+    modId="jei"
+    mandatory=true
+    versionRange="[7.7.1.121,)"
+    ordering="NONE"
+    side="BOTH"

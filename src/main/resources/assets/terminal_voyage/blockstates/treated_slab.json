@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terminal_voyage:block/treated_slab"
+    },
+    "type=double": {
+      "model": "terminal_voyage:block/treated_planks"
+    },
+    "type=top": {
+      "model": "terminal_voyage:block/treated_slab_top"
+    }
+  }
+}

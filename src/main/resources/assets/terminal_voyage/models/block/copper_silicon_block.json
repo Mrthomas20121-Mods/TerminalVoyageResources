@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "terminal_voyage:block/copper_silicon_block"
+  }
+}

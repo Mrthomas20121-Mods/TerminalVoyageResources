@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/copper_silicon",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/copper_silicon"
+  },
+  "result": {
+    "fluid": "terminal_voyage:copper_silicon",
+    "amount": 576
+  },
+  "temperature": 605,
+  "time": 107
+}

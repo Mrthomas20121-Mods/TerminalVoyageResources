@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "terminal_voyage:strange_aquamarine_shale_ore",
+    "terminal_voyage:crystal_aquamarine_shale_ore",
+    "terminal_voyage:midnight_aquamarine_shale_ore"
+  ]
+}

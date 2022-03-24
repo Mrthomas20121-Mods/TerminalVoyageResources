@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:molten_copper",
+      "amount": 432
+    },
+    {
+      "tag": "forge:molten_silicon",
+      "amount": 144
+    }
+  ],
+  "result": {
+    "fluid": "terminal_voyage:copper_silicon",
+    "amount": 576
+  },
+  "temperature": 700
+}

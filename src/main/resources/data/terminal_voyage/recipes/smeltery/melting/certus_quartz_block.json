@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/certus_quartz"
+  },
+  "result": {
+    "fluid": "terminal_voyage:certus_quartz",
+    "amount": 576
+  },
+  "temperature": 1400,
+  "time": 69
+}

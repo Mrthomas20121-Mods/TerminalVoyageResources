@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "terminal_voyage:steel_nugget",
+    "terminal_voyage:copper_silicon_nugget",
+    "terminal_voyage:redstone_alloy_nugget"
+  ]
+}

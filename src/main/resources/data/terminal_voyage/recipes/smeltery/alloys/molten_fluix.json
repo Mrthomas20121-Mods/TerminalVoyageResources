@@ -1,0 +1,22 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "tag": "forge:redstone",
+      "amount": 144
+    },
+    {
+      "tag": "forge:molten_charged_certus_quartz",
+      "amount": 144
+    },
+	{
+      "tag": "forge:molten_quartz",
+      "amount": 144
+    }
+  ],
+  "result": {
+    "fluid": "terminal_voyage:fluix",
+    "amount": 288
+  },
+  "temperature": 2100
+}

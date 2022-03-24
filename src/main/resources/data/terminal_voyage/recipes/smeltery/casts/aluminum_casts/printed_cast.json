@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "modid": "tinkers_reforged",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "cast": {
+    "tag": "appliedenergistics2:printed_circuit"
+  },
+  "cast_consumed": true,
+  "switch_slots": true,
+  "fluid": {
+    "tag": "forge:molten_aluminum",
+    "amount": 144
+  },
+  "result": "terminal_voyage:aluminum_printed_cast",
+  "cooling_time": 57
+}

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "appliedenergistics2:crystals/fluix"
+  },
+  "result": {
+    "fluid": "terminal_voyage:fluix",
+    "amount": 144
+  },
+  "temperature": 1100,
+  "time": 60
+}

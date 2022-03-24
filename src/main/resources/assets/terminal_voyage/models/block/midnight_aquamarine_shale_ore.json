@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "terminal_voyage:block/midnight_aquamarine_shale_ore"
+  }
+}

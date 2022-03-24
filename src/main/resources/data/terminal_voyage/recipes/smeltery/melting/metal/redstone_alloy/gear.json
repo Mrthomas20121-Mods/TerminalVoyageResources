@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gears/redstone_alloy",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:gears/redstone_alloy"
+  },
+  "result": {
+    "fluid": "terminal_voyage:redstone_alloy",
+    "amount": 576
+  },
+  "temperature": 605,
+  "time": 107
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:storage_blocks/copper_silicon",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/copper_silicon"
+  },
+  "result": {
+    "fluid": "terminal_voyage:copper_silicon",
+    "amount": 1296
+  },
+  "temperature": 605,
+  "time": 161
+}

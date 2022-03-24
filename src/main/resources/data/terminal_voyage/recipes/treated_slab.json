@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "terminal_voyage:treated_planks"
+    }
+  },
+  "result": {
+    "item": "terminal_voyage:treated_slab",
+    "count": 3
+  }
+}
