@@ -1,0 +1,7 @@
+{
+  "loader": "mantle:fluid_texture",
+  "textures": {
+    "still": "terminal_voyage:block/fluids/redstone_alloy_still",
+    "flowing": "terminal_voyage:block/fluids/redstone_alloy_flow"
+  }
+}

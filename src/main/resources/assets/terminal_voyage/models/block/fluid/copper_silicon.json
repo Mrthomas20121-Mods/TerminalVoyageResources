@@ -1,0 +1,7 @@
+{
+  "loader": "mantle:fluid_texture",
+  "textures": {
+    "still": "terminal_voyage:block/fluids/copper_silicon_still",
+    "flowing": "terminal_voyage:block/fluids/copper_silicon_flow"
+  }
+}

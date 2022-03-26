@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "appliedenergistics2:charged_certus_quartz_crystal"
+  },
+  "result": {
+    "fluid": "terminal_voyage:charged_certus_quartz",
+    "amount": 144
+  },
+  "temperature": 2000,
+  "time": 60
+}

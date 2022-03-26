@@ -3,6 +3,9 @@
   "values": [
     "terminal_voyage:lunar_dimensional_shard_ore",
     "terminal_voyage:turquoise_dimensional_shard_ore",
-    "terminal_voyage:limestone_dimensional_shard_ore"
+    "terminal_voyage:limestone_dimensional_shard_ore",
+    "rftoolsbase:dimensionalshard_overworld",
+    "rftoolsbase:dimensionalshard_nether",
+    "rftoolsbase:dimensionalshard_end"
   ]
 }

@@ -6,6 +6,7 @@ import net.minecraft.block.*;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
+import net.minecraftforge.common.ToolType;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 
@@ -40,15 +41,15 @@ public class ModBlocks {
     }
 
     private static Pair<RegistryObject<Block>, RegistryObject<Item>> registerSandBlock(String name) {
-        return register(name, new Block(AbstractBlock.Properties.of(Material.SAND).requiresCorrectToolForDrops().strength(3.0F, 3.0F)));
+        return register(name, new Block(AbstractBlock.Properties.of(Material.SAND).sound(SoundType.SAND).requiresCorrectToolForDrops().harvestTool(ToolType.SHOVEL).strength(2.0F, 2.0F)));
     }
 
     private static Pair<RegistryObject<Block>, RegistryObject<Item>> registerOreBlock(String name) {
-        return register(name, new Block(AbstractBlock.Properties.of(Material.STONE).requiresCorrectToolForDrops().strength(3.0F, 3.0F)));
+        return register(name, new Block(AbstractBlock.Properties.of(Material.STONE).sound(SoundType.STONE).requiresCorrectToolForDrops().harvestTool(ToolType.PICKAXE).strength(3.0F, 3.0F)));
     }
 
     private static Pair<RegistryObject<Block>, RegistryObject<Item>> registerMetalBlock(String name) {
-        return register(name, new Block(AbstractBlock.Properties.of(Material.METAL).requiresCorrectToolForDrops().strength(3.0F, 3.0F)));
+        return register(name, new Block(AbstractBlock.Properties.of(Material.METAL).sound(SoundType.METAL).requiresCorrectToolForDrops().harvestTool(ToolType.PICKAXE).strength(3.0F, 3.0F)));
     }
 
     private static BlockItem register(Block block) {

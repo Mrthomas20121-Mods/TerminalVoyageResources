@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "terminal_voyage:block/fluid/copper_silicon"
+    }
+  }
+}

@@ -5,7 +5,7 @@ issueTrackerURL = "https://github.com/Mrthomas20121-Mods/TerminalVoyageResources
 
 [[mods]]
 modId = "terminal_voyage"
-version = "0.0.1"
+version = "0.0.3"
 displayName = "Terminal Voyage: Resources"
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/terminal_voyage_resources"
 #logoFile="terminal_voyage_logo.png"
