@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "appliedenergistics2:certus_quartz_crystal"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:redstone",
+    "amount": 288
+  },
+  "result": {
+    "item": "appliedenergistics2:charged_certus_quartz_crystal"
+  },
+  "cooling_time": 90
+}

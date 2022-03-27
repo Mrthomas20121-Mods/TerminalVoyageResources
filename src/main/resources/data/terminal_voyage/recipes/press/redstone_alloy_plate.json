@@ -1,0 +1,11 @@
+{
+  "type": "thermal:press",
+  "ingredient": {
+    "tag": "forge:ingots/redstone_alloy"
+  },
+  "result": [
+    {
+      "item": "terminal_voyage:redstone_alloy_plate"
+    }
+  ]
+}
