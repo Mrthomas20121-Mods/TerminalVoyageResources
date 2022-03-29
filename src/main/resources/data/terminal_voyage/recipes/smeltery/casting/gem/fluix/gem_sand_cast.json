@@ -1,12 +1,12 @@
 {
   "type": "tconstruct:casting_table",
   "cast": {
-    "item": "tconstruct:casts/single_use/gem"
+    "tag": "tconstruct:casts/single_use/gem"
   },
   "cast_consumed": true,
   "fluid": {
-    "tag": "forge:redstone",
-    "amount": 288
+    "tag": "forge:molten_fluix",
+    "amount": 144
   },
   "result": {
     "item": "appliedenergistics2:crystals/fluix"
