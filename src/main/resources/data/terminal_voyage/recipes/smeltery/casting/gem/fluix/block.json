@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "tag": "forge:molten_fluix",
+    "amount": 1296
+  },
+  "result": {
+    "item": "appliedenergistics2:fluix_block"
+  },
+  "cooling_time": 150
+}

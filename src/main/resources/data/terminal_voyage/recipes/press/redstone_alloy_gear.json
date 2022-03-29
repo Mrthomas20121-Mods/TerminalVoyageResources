@@ -1,0 +1,17 @@
+{
+  "type": "thermal:press",
+  "ingredient": [
+	{
+	  "tag": "forge:ingots/redstone_alloy",
+	  "count": 4
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "terminal_voyage:redstone_alloy_gear"
+    }
+  ]
+}

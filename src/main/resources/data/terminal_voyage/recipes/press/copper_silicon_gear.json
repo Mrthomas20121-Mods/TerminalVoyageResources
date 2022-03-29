@@ -1,0 +1,17 @@
+{
+  "type": "thermal:press",
+  "ingredient": [
+	{
+	  "tag": "forge:ingots/copper_silicon",
+	  "count": 4
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "result": [
+    {
+      "item": "terminal_voyage:copper_silicon_gear"
+    }
+  ]
+}

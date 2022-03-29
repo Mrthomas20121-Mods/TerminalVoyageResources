@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "tconstruct:casts/multi_use/gem"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "forge:redstone",
+    "amount": 288
+  },
+  "result": {
+    "item": "appliedenergistics2:crystals/fluix"
+  },
+  "cooling_time": 90
+}

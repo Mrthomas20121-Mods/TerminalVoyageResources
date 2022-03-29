@@ -1,0 +1,11 @@
+{
+  "type": "thermal:furnace",
+  "ingredient": {
+    "tag": "appliedenergistics2:dusts/quartz"
+  },
+  "result": {
+    "item": "appliedenergistics2:silicon"
+  },
+  "experience": 0.1,
+  "energy_mod": 2.0
+}

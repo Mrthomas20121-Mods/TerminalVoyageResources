@@ -1,0 +1,10 @@
+{
+  "type": "atum:kiln",
+  "ingredient": {
+    "tag": "appliedenergistics2:dusts/quartz"
+  },
+  "result": {
+    "item": "appliedenergistics2:silicon"
+  },
+  "experience": 0.1
+}
