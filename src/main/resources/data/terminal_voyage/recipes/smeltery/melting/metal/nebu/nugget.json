@@ -3,19 +3,19 @@
   "conditions": [
     {
       "value": {
-        "tag": "forge:nuggets/redstone_alloy",
+        "tag": "forge:nuggets/nebu",
         "type": "forge:tag_empty"
       },
       "type": "forge:not"
     }
   ],
   "ingredient": {
-    "tag": "forge:nuggets/redstone_alloy"
+    "tag": "forge:nuggets/nebu"
   },
   "result": {
-    "fluid": "terminal_voyage:redstone_alloy",
+    "fluid": "terminal_voyage:nebu",
     "amount": 16
   },
-  "temperature": 1400,
+  "temperature": 2000,
   "time": 18
 }
